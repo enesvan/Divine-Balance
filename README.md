@@ -1,4 +1,4 @@
-# Ilahi Denge
+# Divine Balance
 
 The game that we developed at the ITU Game Design and Development Club Homemade Game Jam event.
 
